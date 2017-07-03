@@ -1,37 +1,45 @@
+/*Background */
 body {
      background: url("http://i.imgur.com/Po4Zqtd.jpg") top center;
 	 background-repeat: no-repeat;
 	 background-attachment: scroll;
 	 background-size: cover;
+}
+
+/*Background Header */
+#secao-principal {
+     background: url("http://i.imgur.com/hzpgFBW.png") top center;
+	 background-repeat: no-repeat;
+	 background-attachment: scroll;
+	 margin-top: 20px;
+}
+
+/*Imagem principal */
+#secao-primaria img{
+	margin-top: 300px;
 
 }
 
-#header{
-	
-}
-
-#secao-principal{
-
-}
-
-figcaption{
-
+figcaption {
+	margin: 10px;
 	padding: 10px 25px;
-	color: #AAA;
+	color: black;
 	text-align: left;
-	background-color: rgba(200,200,200,0.3)
+	background-color: rgba(200,200,200,0.7)
 }
 
-/*Máscara cinza para o back ground */
-#mask{
 
-	color: white;
-	background-color: rgba(0,0,0,0.5);
-	width:100%;
-	height:90%;
-	position:absolute;
-	top:0;
-	left:0;
+/*Imagens de releitura */
+#secao-secundaria {
+	margin: 10px 10px 0px;
+	padding-top: 150px;
+	padding-bottom: 150px;
+	color: black;
+	text-align: left;
+	background-color: rgba(0,0,0,0.7)
+
 }
+
+
 
 
