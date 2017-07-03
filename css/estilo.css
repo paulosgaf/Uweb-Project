@@ -1,6 +1,16 @@
-#secao-principal{
+body {
+     background: url("http://i.imgur.com/Po4Zqtd.jpg") top center;
+	 background-repeat: no-repeat;
+	 background-attachment: scroll;
+	 background-size: cover;
 
-	background-image: url("../img/Background.jpg"); 
+}
+
+#header{
+	
+}
+
+#secao-principal{
 
 }
 
@@ -23,3 +33,5 @@ figcaption{
 	top:0;
 	left:0;
 }
+
+
