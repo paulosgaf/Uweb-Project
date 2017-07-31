@@ -11,7 +11,9 @@ body {
      background: url("http://i.imgur.com/hzpgFBW.png") top center;
 	 background-repeat: no-repeat;
 	 background-attachment: scroll;
-	 margin-top: 20px;
+	 width: 100%;
+	 height: auto;
+	 background-size: cover;
 }
 
 /*Imagem principal */
@@ -30,16 +32,10 @@ figcaption {
 
 
 /*Imagens de releitura */
-#secao-secundaria {
-	margin: 10px 10px 0px;
-	padding-top: 150px;
-	padding-bottom: 150px;
+#secao-secundaria #parte-preta{
+	/*margin: 10px 10px 0px;*/
+	/*padding-top: 50px;
+	padding-bottom: 50px;*/
 	color: black;
-	text-align: left;
 	background-color: rgba(0,0,0,0.7)
-
 }
-
-
-
-
