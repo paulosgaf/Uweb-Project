@@ -8,34 +8,21 @@ body {
 
 /*Background Header */
 #secao-principal {
-     background: url("http://i.imgur.com/hzpgFBW.png") top center;
+     background: url("http://i.imgur.com/jKiarSp.png") top center;
 	 background-repeat: no-repeat;
 	 background-attachment: scroll;
-	 width: 100%;
-	 height: auto;
-	 background-size: cover;
+	 padding: 1px;
 }
 
 /*Imagem principal */
 #secao-primaria img{
-	margin-top: 300px;
-
+	margin-top: 250px;
 }
 
 figcaption {
-	margin: 10px;
-	padding: 10px 25px;
+	margin-bottom: 20px;
+	padding: 10px;
 	color: black;
 	text-align: left;
 	background-color: rgba(200,200,200,0.7)
-}
-
-
-/*Imagens de releitura */
-#secao-secundaria #parte-preta{
-	/*margin: 10px 10px 0px;*/
-	/*padding-top: 50px;
-	padding-bottom: 50px;*/
-	color: black;
-	background-color: rgba(0,0,0,0.7)
 }
